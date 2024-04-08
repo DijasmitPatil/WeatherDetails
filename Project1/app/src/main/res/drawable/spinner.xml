@@ -1,0 +1,14 @@
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_edttxt_design" />
+
+    <item
+        android:drawable="@drawable/ic_dropdown"
+        android:gravity="end|center_vertical"
+        android:right="8dp" />
+
+
+</layer-list>
+
